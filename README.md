@@ -58,7 +58,7 @@ AI가 데이터를 분석하고 IoT가 세상을 움직이는,
 ## 📫 Contact
 
 - **Email** : gkrud01033@gmail.com  
-- **notion** : [[https://your-portfolio-site.com](https://your-portfolio-site.com)](https://notch-handle-2e9.notion.site/295cad89675b81e68d6ccaf48b547e28)
+- **notion** :[(https://notch-handle-2e9.notion.site/295cad89675b81e68d6ccaf48b547e28)]
 
 ---
 
