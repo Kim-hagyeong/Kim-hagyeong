@@ -18,11 +18,11 @@ AI가 데이터를 분석하고 IoT가 세상을 움직이는,
 
 | 분야 | 기술 |
 |------|------|
-| 🤖 **AI / ML** | PyTorch, YOLO, OpenCV, Whisper, CNN, ResNet |
+| 🤖 **AI / ML** | PyTorch, YOLO, OpenCV, CNN, ResNet |
 | 🔌 **IoT / Hardware** | Raspberry Pi, ESP32, Arduino, DHT11, Servo Motor |
-| ☁️ **Backend** | Spring Boot, Flask, MySQL, REST API, MQTT |
-| 💻 **Frontend / Dashboard** | React.js, TailwindCSS, WebSocket |
-| 🧩 **Deployment / Infra** | AWS EC2, Docker, TensorRT, ONNX |
+| ☁️ **Backend** | Spring Boot, Flask, MySQL, REST API |
+| 💻 **Frontend / Dashboard** | React.js, TailwindCSS|
+| 🧩 **Deployment / Infra** | AWS EC2, Docker |
 
 ---
 
